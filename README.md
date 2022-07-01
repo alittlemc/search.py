@@ -1,6 +1,12 @@
 # search.py
 Python script to quickly query the contents of all word and Excel files in the directory.
 
+> Windows环境下使用
+
+# 依赖
+> openpyxl、difflib、ctypes
+
+
 # 必选:
         
         [str:关键字]
